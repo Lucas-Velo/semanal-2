@@ -5,5 +5,6 @@ Matrícula: 911272
 
 PRINTS:
 
-![](images/network.png)
-![](images/indexprint.png)
+![alt text](network.png)
+
+![alt text](indexprint.png)
